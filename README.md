@@ -1,4 +1,4 @@
-### Hello! My name is Damon Holland. I am a software engineer in the PDX area. If you would like to get in touch, please feel free to contact me via email at damonrholland@gmail.com. 
+Hello! My name is Damon Holland. I am a software engineer in the PDX area. If you would like to get in touch, please feel free to contact me via email at damonrholland@gmail.com. 
 
 ---
 
