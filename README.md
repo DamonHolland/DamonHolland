@@ -1,5 +1,10 @@
 ### Hello! My name is Damon Holland. I am a software engineer in the PDX area. If you would like to get in touch, please feel free to contact me via email at damonrholland@gmail.com. 
 
+<!-- GitHub Activity -->
+## GitHub Activity
+
+[![Damon's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DamonHollande&bg_color=ffffff&color=4c71f2&line=4c71f2&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 <div align="center">
