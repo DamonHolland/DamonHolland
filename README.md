@@ -3,13 +3,13 @@
 ---
 
 <div align="center">
-    <a align="center" href="https://github.com/JohnPDuong/github-readme-stats">
+    <a align="center" href="https://github.com/DamonHolland/github-readme-stats">
         <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=JohnPDuong&theme=radical">
     </a>
 </div>
 
 <div align="center">
-    <a align="center" href="https://github.com/JohnPDuong/github-readme-stats">
+    <a align="center" href="https://github.com/DamonHolland/github-readme-stats">
         <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPDuong&layout=compact&exclude_repo=A1-SQL-Queries-Generator">
     </a>
 </div>
